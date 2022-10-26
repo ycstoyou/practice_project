@@ -402,3 +402,4 @@ settings.ini
 
 # otf setting file
 otf.json
+/practice_project/include/glm/out/build/x64-Debug
