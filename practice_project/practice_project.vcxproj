@@ -55,9 +55,9 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
-    <ExternalIncludePath>..\practice_project\practice_project\include;$(ExternalIncludePath)</ExternalIncludePath>
+    <ExternalIncludePath>..\practice_project\practice_project\include;C:\_project\practice_project\lib\include;$(ExternalIncludePath)</ExternalIncludePath>
     <LibraryPath>..\practice_project\lib;..\practice_project\lib\dcmtk\dcmtk-3.6.6\bin\dcmtk-3.6.6_msvc2019_x64\Debug\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>..\practice_project\lib\dcmtk\dcmtk-3.6.6\bin\dcmtk-3.6.6_msvc2019_x64\Debug\include;$(IncludePath)</IncludePath>
+    <IncludePath>..\practice_project\lib\dcmtk\dcmtk-3.6.6\bin\dcmtk-3.6.6_msvc2019_x64\Debug\include;C:\_project\practice_project\lib\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
   </PropertyGroup>
