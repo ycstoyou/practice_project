@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>practice_projectClass</class>
+ <widget class="QDialog" name="practice_projectClass" >
+  <property name="objectName" >
+   <string notr="true">practice_projectClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>practice_project</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="practice_project.qrc"/>
+ </resources>
+ <connections/>
+</UI>
